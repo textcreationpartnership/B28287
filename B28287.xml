@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Good newes from Munster being an exact and true relation of certain passages of intelligence from the province of Munster in Ireland : as of taking of Ballincolly castle near Cork ... / faithfully collected (from the mouth of a gentlman [sic] of good rank and credit, Peter Courtup ...) by John Powell.</title>
+            <author>Powell, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28287</idno>
+            <idno type="STC">Wing P3062A</idno>
+            <idno type="EEBO-CITATION">10599384</idno>
+            <idno type="OCLC">ocm 10599384</idno>
+            <idno type="VID">204731</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B28287)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204731)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1408:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Good newes from Munster being an exact and true relation of certain passages of intelligence from the province of Munster in Ireland : as of taking of Ballincolly castle near Cork ... / faithfully collected (from the mouth of a gentlman [sic] of good rank and credit, Peter Courtup ...) by John Powell.</title>
+                  <author>Powell, John.</author>
+                  <author>Courtup, Peter.</author>
+               </titleStmt>
+               <extent>[7] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Andrew Coe,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  Rebellion of 1641.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Sarah Wingo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:204731:1"/>
+            <pb facs="tcp:204731:1"/>
+            <p>GOOD NEWES FROM MVNSTER:</p>
+            <p>BEING, An Exact and true Relation of certain Paſſages of Intelligence from the Province of <hi>Munſter</hi> in <hi>Ireland.</hi>
+            </p>
+            <p>As of taking of <hi>Ballincolly</hi> Caſtle near <hi>Cork,</hi> and cutting off of many Iriſh Rebels that were ſheltred there; and ſtopt the paſſage between <hi>Cork</hi> and <hi>Bandon.</hi>
+            </p>
+            <p>And likewife of the relieving of the Kings Caſtle of <hi>Limrick</hi> by Captain <hi>Cole,</hi> with the Kings Pinnaſſe; who in her return took a <hi>Dunkirker</hi> richly laden with Ammunition;</p>
+            <p>FAITHFVLLY COLLECTED, (From the mouth of a Gentlman of good rank and credit, <hi>Peter Courtup</hi> Eſquire, ſometimes High-Sheriff of the Countie of <hi>Cork,</hi> lately landed at <hi>M<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d</hi> from <hi>Cork</hi> in <hi>Mun<g ref="char:EOLhyphen"/>ſter.</hi>) By JOHN POVVELL, Preacher of God Word, Vicar and Paſtor of <hi>Newmarket</hi> in <hi>Munſter,</hi> untill the <hi>Iriſh</hi> Rebellious Wolves ſcattered his flock, and ſcared their Shepheard, who loſt by this Rebellion 400. l. in Temporalties, beſides his Spirituall means of 150. l.<hi>per annum.</hi>
+            </p>
+            <p>WITH A Letter ſent from Amſterdam, and read in both Houſes of <hi>Parliament,</hi> the 11. of this preſent June, 1642.</p>
+            <p>Diſcovering what courſes are there taken for the raiſing of Ammunition to be ſent to the North. With a Liſt containing the particular number of the ſaid Ammunition.</p>
+            <p>Die Lunae, <hi>13.</hi> Iunii, <hi>1642.</hi>
+            </p>
+            <p>Ordered by the Lords in Parliament, That theſe Letters and liſt of Am<g ref="char:EOLhyphen"/>munition be forthwith printed and publiſhed. <hi>I. Brown Cler. Parl.</hi>
+            </p>
+            <p>
+               <hi>Iune</hi> 14. LONDON, printed for <hi>Andrew Coe.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:204731:2" rendition="simple:additions"/>
+            <opener>
+               <dateline>From Amſterdam. <date>Iune <hi>12</hi>
+                  </date> New ſtile, <date>Iune <hi>2</hi>
+                  </date> old ſtile. To Iohn Beauchamp Merchant of London.</dateline>
+            </opener>
+            <p>For the Cloath Trade at preſent, <hi>I</hi> would adviſe you to write to hic whollyy not to boy in a piece at preſent, although he pre<g ref="char:EOLhyphen"/>tends loſing his workemen or the like: for loſing his workmen, I doubt at this time money is not ſo rieſe in that Country, and men ſo forward to buy, that <hi>I</hi> thinke little feare, but that if he Turnes off or leave buying, his workemen will be glad to come againe at more ſettled tmes; And it may be, ſell better cheape. Therefore abovt all excuſes, as the ſtate ſtands write him abſolutely not to take off any untiel further adviſe for if things go badly there, and come to pilag<g ref="char:EOLhyphen"/>ing or deſtruction, you ſhould have all the cloth he had in the houſe to be reckoned to bee your cloth.</p>
+            <p>
+               <hi>I</hi> feare a ſtorme to ariſe the North, and I ſee it dayly growe blacker and darker, for ſtore of monyes is made over to pe ſent thither, witneſſe the riſinn of the exchange here ſo ſuddenly; And at breſent here is Order to buy ſtore of piſtoles for Horſmen and powder, and neere upon 20. braſſe pieces to bee ſent for the North parts, but the Order is not from the Parliament.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:204731:2"/>
+            <head>Newes from <hi>Ireland,</hi> reported by <hi>Peter Courtup</hi> Eſquire, ſometimes High She<g ref="char:EOLhyphen"/>riffe of the County of <hi>Corke</hi> in the Pro<g ref="char:EOLhyphen"/>vince of <hi>Munſter,</hi> lately landed at <hi>Mine-head,</hi> from thence.</head>
+            <p>SIR <hi>William St. Leger</hi> Lord Preſi<g ref="char:EOLhyphen"/>dent and General of <hi>Munſter</hi> finding the paſſage betweene <hi>Corke</hi> and <hi>Bau<g ref="char:EOLhyphen"/>don Bridge</hi> peſterd with Iriſh Rebels that were ſheltered and ſuccoured in a Caſtle ſomewhat adjacent unto the ſaid roade, gave order that forthwith a conſiderable force of Horſe and foot ſhould iſſue forth againſt the ſaid Caſtle, called by the name of <hi>Ballencholly Caſtle,</hi> and that Captaine <hi>Chidley</hi> ſhould goe Commander of the ſaid Force; withall, that a Baſiliſco ſhould be taken forth of the Fort of <hi>Cork</hi>
+               <pb facs="tcp:204731:3"/>for the better expediting of their De<g ref="char:EOLhyphen"/>ſignes againſt the ſaid Rebels in <hi>Ballin<g ref="char:EOLhyphen"/>cally Caſtle,</hi> which accordingly was ef<g ref="char:EOLhyphen"/>fected, there were of Horſe 100. of Foot 200. and after their comming to the ſaid Caſtle, and demanding the ſaid Caſtle to be rendred up to them for his Majeſties uſe, and they refuſing of it, they with the piece of Ordnance made a breach for entrance, and with the loſſe of ſome 4. or 5. men, entred the Caſtle, and put to death neere about 80. men; after this Exploit they cauſe the breach to be made up againe, and left 40. of their men in the ſaid Caſtle: All this while the Lord of <hi>Muskrey</hi> being in view of the ſaid Forces with 7. or 8000. men, durſt not advance againſt our Forces to relieve the ſaid Ca<g ref="char:EOLhyphen"/>ſtle, ſuch is the ſpirit of feare and co<g ref="char:EOLhyphen"/>wardice that God hath poſſeſt the Iriſh Rebels hearts with in vengeance, that were here a ſudden, conſiderable, well-provided Aide ſent over into <hi>Munſter,</hi> our <hi>Engliſh</hi> there would quickly (by the help of God, who hath wonderfully of
+<pb facs="tcp:204731:3"/>late ſtretched out his arme of mercy to<g ref="char:EOLhyphen"/>wards the Proteſtants there) be not only Maſters of the field, but Commanders of all the Cities and Caſtles, Forts, and Forts of <hi>Munſter,</hi> but before Captaine <hi>Chidley</hi> and his Forces left the ſaid Caſtle, hee charged the Souldiers to whom he com<g ref="char:EOLhyphen"/>mitted the cuſtody and command of the ſaid Caſtle, that they ſhould have an eſpe<g ref="char:EOLhyphen"/>ciall care to have a ſtrong and faithfull ſentinell for feare there ſhould be any more men in the Caſtle in any ſecret place that they had not diſcovered, for that in warres before this, Captain <hi>Ban<g ref="char:EOLhyphen"/>ret</hi> an Iriſh man pretending to be true to the Queenes Majeſty, repaired unto the Lord Preſident <hi>Carew,</hi> to have ſome Muſ<g ref="char:EOLhyphen"/>keteers to guard this Caſtle being then his, otherwiſe he ſhould be made a prey unto his Country-men that were in Re<g ref="char:EOLhyphen"/>bellion, whereupon the Lord Preſident allowed him 24. Musketiers, of whom the ſaid <hi>Barnet</hi> promis'd to be chary of as of his owne life, but he within three dayes after at ſupper, cauſed all thſe men
+<pb facs="tcp:204731:4"/>to be ſlain by 80. Armed men that iſſued out of a Vault under ground in the ſame Caſtle giving them this watch word that when they heard him offer to drinke to them, ſaying, <hi>Here's is to you all Gentle<g ref="char:EOLhyphen"/>men Souldiers in a cup of red Wine,</hi> they ſhuld preſently ſurprize them &amp; cut them off, which accordingly they did, ſo dan<g ref="char:EOLhyphen"/>gerous a thing it is to truſt Proteſtants under the command of Papiſts, notwith<g ref="char:EOLhyphen"/>ſtanding their deep Proteſtations, oathes pretended love and loyalty; the ſad Tra<g ref="char:EOLhyphen"/>gedy of theſe 24. made the 40. men left in the ſaid Caſtle more vigilant, and loo<g ref="char:EOLhyphen"/>king about under the hutch, they found a boy, to whom they promiſt his life, if he would diſcover unto them the way to the Vault, but refuſing to doe, after ſome torture they inflicted on him, they put him to death; not long after, a hand<g ref="char:EOLhyphen"/>ſome Iriſh woman came up out of the Vault, and hung about one of the Soul<g ref="char:EOLhyphen"/>diers necks, and kiſt him, deſiring him to ſave her life and <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oe what he would with her, but he anſwering her, that it
+<pb facs="tcp:204731:4"/>was not in his power, left her, and ano<g ref="char:EOLhyphen"/>ther Souldier cleft her head into two pieces; and then the Souldiers betooke themſelves to the further diſcovery of the ſaid Vault, which they found out by her comming forth, and preſenly caſt in ſuch abundance of moiſt Hay fired, that with the ſmother thereof, enforced Armed men that were there to come up, there were 17. which our men cut off, and now keepe the Caſtle quietly, and thereby have cleared the way betweene <hi>Cork</hi> and <hi>Bandon-bridge.</hi>
+            </p>
+            <p>Likewiſe, that the Kings Caſtle of <hi>Limrick,</hi> under the command of Captain <hi>George Courtney,</hi> was relieved upon intel<g ref="char:EOLhyphen"/>ligence ſent unto the Lord Preſident of <hi>Munſter</hi> from the ſaid Captain <hi>Courtney</hi> of his great want both with proviſion and Ammunition, by the Kings Pinace under the Command of Captaine <hi>Cole,</hi> and up<g ref="char:EOLhyphen"/>on the returne of the ſaid Pinace, there did appeare at the mouth of the Harbour of <hi>Limrick,</hi> two <hi>Dunkirks,</hi> thereupon the Pinace having eight braſſe Pieces, beſides
+<pb facs="tcp:204731:5" rendition="simple:additions"/>Murtherers and Fire-workes, let flye at them both, but the one eſcapt, and the other the Kings Pinace tooke in, which Veſſell being neere about an hundred Tun they found an Iriſh Merchant of <hi>Limrick,</hi> worth before theſe warres there, 1500. pound <hi>per annum</hi> in Lands, beſides his other ſtocke of Merchandiſe, foure ſcore Barrels of Powder, 700. Muskets, beſides abundance of Swords and Match, and the very Ballaſt was all Ordinances, which Captaine <hi>Cole</hi> hath brought about to, <hi>Corke,</hi> God ſend us more ſuch good puchaſes that may hinder the Rebels and help our Friends.</p>
+            <list>
+               <head>A liſt of the Ammunition, as followeth:</head>
+               <item>FOure pieces of Battery of 18 pound Bullet.</item>
+               <item>One piece carrying 12. pound bullet.</item>
+               <item>Two Culverings carrying 8. pound bullet.</item>
+               <item>Six Field pieces carrying 6. pound bullet.</item>
+               <item>Two Mortar pieces.</item>
+               <item>For Granado's ſixteene.</item>
+               <item>An hundred barrells of pouder.</item>
+               <item>Two thouſand paire of Piſtols ready prev<gap reason="illegible" resp="#MURP" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>. <gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </item>
+               <item>A thouſand Carabines.</item>
+               <item>Three thouſand Saddles.</item>
+               <item>Bullets. Ladles. Sponges. Carriages. Harneſſe for Dr<gap reason="illegible" resp="#MURP" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> Horſes.</item>
+               <item>The Mortar pieces are a foot and a hal<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e in <gap reason="illegible" resp="#MURP" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the mouth mettall and all.</item>
+               <item>Shooting Granado's of 11 or 12 inches.</item>
+            </list>
+            <trailer>FINJS.</trailer>
+            <pb facs="tcp:204731:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
